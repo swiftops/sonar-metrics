@@ -31,7 +31,7 @@ docker run -ti -v /path/of/sourcode/to/mount/inside/container:/root/src --link s
 
 ### Checkout Repository
 ```
-$git clone https://github.com/swiftops/GET_SONAR_METRICS.git
+$git clone https://github.com/swiftops/SONAR-METRICS.git
 ```
 ### Configuration
 
